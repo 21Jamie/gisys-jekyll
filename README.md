@@ -29,7 +29,7 @@ GitHub Actions 会自动构建并发布到 GitHub Pages。
 
 ## 访问网站
 
-https://21Jamie.github.io/obsidian-site
+https://gisys.netlify.app
 
 ## 配置
 
