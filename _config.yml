@@ -1,0 +1,7 @@
+title: GISYS
+description: Obsidian Notes Published with Jekyll
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# For Netlify
+timezone: Asia/Shanghai
